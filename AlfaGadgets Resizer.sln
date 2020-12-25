@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlfaGadgets Resizer", "AlfaGadgets Resizer\AlfaGadgets Resizer.csproj", "{93EA3B7D-8D1C-4EA7-B0EC-7A44F11B144F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93EA3B7D-8D1C-4EA7-B0EC-7A44F11B144F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EA3B7D-8D1C-4EA7-B0EC-7A44F11B144F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EA3B7D-8D1C-4EA7-B0EC-7A44F11B144F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EA3B7D-8D1C-4EA7-B0EC-7A44F11B144F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AAF1012-479A-4ACC-9361-90DB30425D75}
+	EndGlobalSection
+EndGlobal
